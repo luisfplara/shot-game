@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/weapons">
+        <file>weapons/ak47_m.png</file>
+        <file>weapons/ak47_m2.png</file>
+    </qresource>
+    <qresource prefix="/bg">
+        <file>background/bg.jpg</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>sfx/weapons/ak47.wav</file>
+    </qresource>
+</RCC>
